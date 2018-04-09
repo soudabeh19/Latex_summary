@@ -1,0 +1,3 @@
+toc >> Table Of Contents
+lof >> List Of Figures
+lot >> List Of Tables 
